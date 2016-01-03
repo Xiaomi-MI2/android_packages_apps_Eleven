@@ -69,7 +69,6 @@ import com.cyanogenmod.eleven.widgets.QueueButton;
 import com.cyanogenmod.eleven.widgets.RepeatButton;
 import com.cyanogenmod.eleven.widgets.RepeatingImageButton;
 import com.cyanogenmod.eleven.widgets.ShuffleButton;
-import com.cyanogenmod.eleven.widgets.VisualizerView;
 import com.cyanogenmod.eleven.widgets.SleepModeDialog;
 
 import java.lang.ref.WeakReference;
